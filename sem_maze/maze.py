@@ -96,7 +96,7 @@ def nearby(cell, nrows, ncols, directions=False):
 def unexplored(cells, explored):
     return list(filter(lambda c: c not in explored, cells))
 
-def main(nrows=8, ncols=4, see_creation=True):
+def main(nrows=8, ncols=4, see_creation=False):
     print('Loading maze...')
     maze = generate_maze(nrows, ncols)
     start, end = maze.start, maze.end
