@@ -16,6 +16,6 @@ In the example game above, navigate from `woodchuck` to `champion` using the arr
 
 The finished game:
 
-![Gameplay image -- Finished Game](img/sem_maze_completed.png?raw=true "Gameplay -- Finished Game")
+![Gameplay image -- Finished Game](img/sem_maze_complete.png?raw=true "Gameplay -- Finished Game")
 
 Each game is random, so play multiple times & have fun!
